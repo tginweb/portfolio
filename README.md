@@ -102,7 +102,4 @@ portfolio/                          # Основной репозиторий (g
 
 ## 📞 Контакты
 
-**GitHub**: [tginweb](https://github.com/tginweb)  
-**Portfolio**: [https://github.com/tginweb/portfolio](https://github.com/tginweb/portfolio)
-
-_Открыт для интересных проектов и технических вызовов!_
+**Telegram**: [axgin](https://t.me/axgin)
