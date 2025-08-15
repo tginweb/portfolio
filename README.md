@@ -66,15 +66,6 @@ git submodule update --init --recursive
 git submodule foreach git pull origin main
 ```
 
-## � Прямкые ссылки на проекты
-
-### Основные репозитории:
-
-- **[Sushi Commerce Site](https://github.com/tginweb/sushi-commerce-site)** - Веб-платформа интернет-магазина
-- **[Sushi Commerce App](https://github.com/tginweb/sushi-commerce-app)** - Мобильное приложение React Native
-- **[OGIRK News Portal](https://github.com/tginweb/ogirk-news-portal)** - Новостной портал с гибридной архитектурой
-- **[AIS Abiturient](https://github.com/tginweb/ais-abiturient)** - Система управления приемной кампанией
-
 ### Демо-версии:
 
 - **[Sushi Commerce App - Live Demo](https://expo.dev/preview/update?message=2.6&updateRuntimeVersion=exposdk%3A52.0.0&createdAt=2024-12-05T04%3A46%3A38.684Z&slug=exp&projectId=8241821d-4881-455a-83e6-f6477e314b37&group=62c5da2b-418e-4dbf-b355-caf189089b9a)** - Требуется Expo 52 Client
