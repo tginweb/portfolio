@@ -1,0 +1,12 @@
+[submodule "ais-abiturient"]
+	path = ais-abiturient
+	url = https://github.com/tginweb/ais-abiturient.git
+[submodule "ogirk-news-portal"]
+	path = ogirk-news-portal
+	url = https://github.com/tginweb/ogirk-news-portal.git
+[submodule "sushi-commerce-app"]
+	path = sushi-commerce-app
+	url = https://github.com/tginweb/sushi-commerce-app.git
+[submodule "sushi-commerce-site"]
+	path = sushi-commerce-site
+	url = https://github.com/tginweb/sushi-commerce-site.git
