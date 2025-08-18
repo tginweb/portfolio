@@ -6,6 +6,5 @@
     <mapping directory="$PROJECT_DIR$/ogirk-news-portal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sushi-commerce-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sushi-commerce-site" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/sushi-commerce-site/bitrix-backend" vcs="Git" />
   </component>
 </project>
