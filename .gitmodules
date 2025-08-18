@@ -7,6 +7,3 @@
 [submodule "sushi-commerce-app"]
 	path = sushi-commerce-app
 	url = https://github.com/tginweb/sushi-commerce-app.git
-[submodule "sushi-commerce-site"]
-	path = sushi-commerce-site
-	url = https://github.com/tginweb/sushi-commerce-site.git
